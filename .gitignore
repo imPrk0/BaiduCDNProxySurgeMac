@@ -1,0 +1,9 @@
+# 操作系统
+.DS_Store
+Desktop.ini
+
+# 主程序
+BaiduCDNProxySurgeMac
+
+# Dist
+dist/
